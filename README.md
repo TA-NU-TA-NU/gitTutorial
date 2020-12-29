@@ -1,7 +1,8 @@
 # Gitチュートリアルだよ。
 
-  - feature-A
-  -fix-B
-  -feature-C
+  - feature-A  
+  - fix-B  
+  - feature-C  
+  - feature-D  
 
 
